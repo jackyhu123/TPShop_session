@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RequestsDemo/.idea/RequestsDemo.iml" filepath="$PROJECT_DIR$/../RequestsDemo/.idea/RequestsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TPShop_session.iml" filepath="$PROJECT_DIR$/.idea/TPShop_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apiIHRMtest2/.idea/apiIHRMtest2.iml" filepath="$PROJECT_DIR$/../apiIHRMtest2/.idea/apiIHRMtest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autointerfaceframe/.idea/autointerfaceframe.iml" filepath="$PROJECT_DIR$/../autointerfaceframe/.idea/autointerfaceframe.iml" />
+    </modules>
+  </component>
+</project>
